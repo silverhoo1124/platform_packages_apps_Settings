@@ -54,11 +54,17 @@
     <!-- Status bar -->
     <!-- 通知栏设置 -->
     <string name="status_bar_category_title">Status bar</string>
-
     <!-- Status bar brightness control -->
     <!-- 通知栏亮度控制 -->
     <string name="status_bar_toggle_brightness">Brightness control</string>
     <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across status bar</string>
     <string name="status_bar_toggle_info">Automatic brightness must be disabled</string>
+    <!-- Status bar battery style selection -->
+    <!-- 通知栏电池图标样式选择 -->
+    <string name="battery_style_title">Battery style</string>
+    <string name="battery_bar">Battery bar</string>
+    <string name="battery_bar_percent">Battery bar &amp; percent</string>
+    <string name="battery_circle">Battery circle</string>
+    <string name="battery_circle_percent">Battery circle &amp; percent</string>
 
 </resources>
