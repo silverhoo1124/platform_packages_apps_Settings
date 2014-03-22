@@ -51,4 +51,14 @@
     <!-- 条目内显示的主标题 -->
     <string name="system_interface_title">DAFAQ IS THIS</string>
 
+    <!-- Status bar -->
+    <!-- 通知栏设置 -->
+    <string name="status_bar_category_title">Status bar</string>
+
+    <!-- Status bar brightness control -->
+    <!-- 通知栏亮度控制 -->
+    <string name="status_bar_toggle_brightness">Brightness control</string>
+    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across status bar</string>
+    <string name="status_bar_toggle_info">Automatic brightness must be disabled</string>
+
 </resources>
