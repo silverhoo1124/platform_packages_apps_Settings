@@ -51,6 +51,18 @@
     <!-- 条目内显示的主标题 -->
     <string name="system_interface_title">DAFAQ IS THIS</string>
 
+    <!-- Double tap to sleep settings -->
+    <!-- 双击锁屏手势设置 -->
+    <string name="double_tap_sleep_settings_title">Double-tap to sleep</string>
+    <string name="double_tap_sleep_glow_pad_title">Glow pad</string>
+    <string name="double_tap_sleep_glow_pad_summary">Double tap the glow pad</string>
+    <string name="double_tap_sleep_pattern_title">Pattern</string>
+    <string name="double_tap_sleep_pattern_summary">Double tap anywhere on the pattern view</string>
+    <string name="double_tap_sleep_pin_password_title">Pin and Password</string>
+    <string name="double_tap_sleep_pin_password_summary">Double tap the text entry view</string>
+    <string name="double_tap_sleep_status_bar_title">Status bar</string>
+    <string name="double_tap_sleep_status_bar_summary">Double tap anywhere on the status bar</string>
+
     <!-- Status bar -->
     <!-- 通知栏设置 -->
     <string name="status_bar_category_title">Status bar</string>
