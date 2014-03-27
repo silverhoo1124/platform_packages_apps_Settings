@@ -40,6 +40,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Generic strings -->
+    <!-- 通用strings -->
+    <string name="ok_string">OK</string>
+    <string name="reset_string">Reset</string>
+
     <!-- DAFUQ IS THIS -->
     <!-- Settings main menu category heading -->
     <!-- 设置主界面的分类抬头 -->
@@ -62,6 +67,26 @@
     <string name="double_tap_sleep_pin_password_summary">Double tap the text entry view</string>
     <string name="double_tap_sleep_status_bar_title">Status bar</string>
     <string name="double_tap_sleep_status_bar_summary">Double tap anywhere on the status bar</string>
+
+    <!-- Navigation bar -->
+    <!-- 导航栏设置 -->
+    <string name="navigation_bar_category_title">Navigation bar</string>
+    <!-- Navigation ring targets customization -->
+    <!-- 个性化导航圈目标 -->
+    <string name="navigation_ring_title">Navigation ring targets</string>
+    <string name="navring_target_reset_message">Delete all user quick launch shortcuts and restore to default?</string>
+    <string name="navring_target_reset">Quick launch shortcuts reset to default</string>
+    <string name="navring_action_open_ime_switcher">Open IME Switcher</string>
+    <string name="navring_action_kill_app">Kill app</string>
+    <string name="navring_action_none">None</string>
+    <string name="navring_action_take_screenshot">Take screenshot</string>
+    <string name="navring_action_ring_vibrate">Ring/Vibration</string>
+    <string name="navring_action_ring_silent">Ring/Silent</string>
+    <string name="navring_action_ring_vibrate_silent">Ring/Vibration/Silent</string>
+    <string name="navring_action_screen_off">Screen off</string>
+    <string name="navring_action_google_now">Google Now</string>
+    <string name="navring_action_power_menu">Power menu</string>
+    <string name="navring_choose_action_title">Choose action</string>
 
     <!-- Status bar -->
     <!-- 通知栏设置 -->
