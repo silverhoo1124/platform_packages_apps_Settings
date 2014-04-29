@@ -185,6 +185,10 @@
     <string name="pulse_speed_normal">正常</string>
     <string name="pulse_speed_slow">慢</string>
     <string name="pulse_speed_very_slow">极慢</string>
+    <!-- Peek -->
+    <!-- Peek -->
+    <string name="notification_peek_title">Peek</string>
+    <string name="notification_peek_summary">拿起或掏出你的Nexus时显示最新通知</string>
 
     <!-- Power connect/disconnect prompt -->
     <!-- 电源连接/断开提示 -->
