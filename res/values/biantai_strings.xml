@@ -131,6 +131,18 @@
     <string name="navring_action_google_now">Google Now</string>
     <string name="navring_action_power_menu">Power menu</string>
     <string name="navring_choose_action_title">Choose action</string>
+    <!-- Navigation bar height customization -->
+    <!-- 导航栏高度自定义 -->
+    <string name="navigation_bar_height">Height</string>
+    <string name="navigation_bar_height_48">48dp (default)</string>
+    <string name="navigation_bar_height_44">44dp</string>
+    <string name="navigation_bar_height_40">40dp</string>
+    <string name="navigation_bar_height_36">36dp</string>
+    <string name="navigation_bar_height_32">32dp</string>
+    <string name="navigation_bar_height_28">28dp</string>
+    <string name="navigation_bar_height_24">24dp</string>
+    <string name="navigation_bar_height_20">20dp</string>
+    <string name="navigation_bar_height_0">0dp (hide)</string>
 
     <!-- Notification -->
     <!-- 通知设置 -->
