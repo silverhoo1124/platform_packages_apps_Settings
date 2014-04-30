@@ -131,6 +131,18 @@
     <string name="navring_action_google_now">Google 即时</string>
     <string name="navring_action_power_menu">电源菜单</string>
     <string name="navring_choose_action_title">选择操作</string>
+    <!-- Navigation bar height customization -->
+    <!-- 导航栏高度自定义 -->
+    <string name="navigation_bar_height">高度</string>
+    <string name="navigation_bar_height_48">48dp (默认)</string>
+    <string name="navigation_bar_height_44">44dp</string>
+    <string name="navigation_bar_height_40">40dp</string>
+    <string name="navigation_bar_height_36">36dp</string>
+    <string name="navigation_bar_height_32">32dp</string>
+    <string name="navigation_bar_height_28">28dp</string>
+    <string name="navigation_bar_height_24">24dp</string>
+    <string name="navigation_bar_height_20">20dp</string>
+    <string name="navigation_bar_height_0">0dp (隐藏)</string>
 
     <!-- Notification -->
     <!-- 通知设置 -->
@@ -302,5 +314,18 @@
     <!-- 关于Nexus界面, FFFFUUUUUU生产日期 -->
     <string name="ffffuuuuuu_build_date">FFFFUUUUUU 生产日期</string>
     <string name="ffffuuuuuu_build_date_default">1992-08-16-love</string>
+
+    <!-- Low battery indicator -->
+    <!-- 低电量提示 -->
+    <string name="battery_prefs_title">选项</string>
+    <string name="battery_stats_title">数据</string>
+    <string name="pref_low_battery_warning_policy_title">低电量警告</string>
+    <string name="pref_low_battery_warning_policy_dialog_title">低电量警告的发出形式为</string>
+    <string name="low_battery_warning_policy_popup_sound">弹窗 + 提示音</string>
+    <string name="low_battery_warning_policy_notif_sound">通知 + 提示音</string>
+    <string name="low_battery_warning_policy_popup">仅弹窗</string>
+    <string name="low_battery_warning_policy_notif">仅通知</string>
+    <string name="low_battery_warning_policy_sound">仅提示音</string>
+    <string name="low_battery_warning_policy_nothing">嘘..表告诉我</string>
 
 </resources>
