@@ -185,6 +185,10 @@
     <string name="pulse_speed_normal">Normal</string>
     <string name="pulse_speed_slow">Slow</string>
     <string name="pulse_speed_very_slow">Very slow</string>
+    <!-- Peek -->
+    <!-- Peek -->
+    <string name="notification_peek_title">Peek</string>
+    <string name="notification_peek_summary">Display the latest notification when you pick up or take out your Nexus</string>
 
     <!-- Power connect/disconnect prompt -->
     <!-- 电源连接/断开提示 -->
