@@ -131,6 +131,18 @@
     <string name="navring_action_google_now">Google 即時</string>
     <string name="navring_action_power_menu">電源選單</string>
     <string name="navring_choose_action_title">選擇操作</string>
+    <!-- Navigation bar height customization -->
+    <!-- 导航栏高度自定义 -->
+    <string name="navigation_bar_height">高度</string>
+    <string name="navigation_bar_height_48">48dp (默認)</string>
+    <string name="navigation_bar_height_44">44dp</string>
+    <string name="navigation_bar_height_40">40dp</string>
+    <string name="navigation_bar_height_36">36dp</string>
+    <string name="navigation_bar_height_32">32dp</string>
+    <string name="navigation_bar_height_28">28dp</string>
+    <string name="navigation_bar_height_24">24dp</string>
+    <string name="navigation_bar_height_20">20dp</string>
+    <string name="navigation_bar_height_0">0dp (隱藏)</string>
 
     <!-- Notification -->
     <!-- 通知设置 -->
@@ -173,6 +185,10 @@
     <string name="pulse_speed_normal">正常</string>
     <string name="pulse_speed_slow">慢</string>
     <string name="pulse_speed_very_slow">極慢</string>
+    <!-- Peek -->
+    <!-- Peek -->
+    <string name="notification_peek_title">Peek</string>
+    <string name="notification_peek_summary">拿起或掏出你的Nexus時顯示最新通知</string>
 
     <!-- Power connect/disconnect prompt -->
     <!-- 电源连接/断开提示 -->
@@ -303,4 +319,17 @@
     <string name="ffffuuuuuu_build_date">FFFFUUUUUU 生產日期</string>
     <string name="ffffuuuuuu_build_date_default">1992-08-16-love</string>
 
+    <!-- Low battery indicator -->
+    <!-- 低电量提示 -->
+    <string name="battery_prefs_title">選項</string>
+    <string name="battery_stats_title">數據</string>
+    <string name="pref_low_battery_warning_policy_title">低電量警告</string>
+    <string name="pref_low_battery_warning_policy_dialog_title">低電量的警告形式爲</string>
+    <string name="low_battery_warning_policy_popup_sound">彈窗 + 提示音</string>
+    <string name="low_battery_warning_policy_notif_sound">通知 + 提示音</string>
+    <string name="low_battery_warning_policy_popup">僅彈窗</string>
+    <string name="low_battery_warning_policy_notif">僅通知</string>
+    <string name="low_battery_warning_policy_sound">僅提示音</string>
+    <string name="low_battery_warning_policy_nothing">噓..表跟我說</string>	
+	
 </resources>
